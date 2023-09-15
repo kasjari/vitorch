@@ -1,0 +1,7 @@
+unit_test
+local_*
+tmp*
+*.pyc 
+*local_*
+*.out
+*__pycache__
